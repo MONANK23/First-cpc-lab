@@ -2,5 +2,5 @@
 void main(){
 	printf("Shivam Park,");
 	printf("Behind Yard,");
-	printf("Dhrol - 361011 Dist:Jamnagar");
+	printf("Dhrol - 361012 Dist:Jamnagar");
 }
